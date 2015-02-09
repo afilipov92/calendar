@@ -1,0 +1,28 @@
+@charset "utf-8";
+h1{
+	text-align:center;
+	margin-top: 5%;
+}
+.name{
+	height:45px;
+	font-size:24px;	
+}
+td{
+	height:115px;
+	width:115px;
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+b{
+	font-size:40px;
+}
+	
+
+	
+	
+
